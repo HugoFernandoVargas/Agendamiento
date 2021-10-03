@@ -11,6 +11,7 @@ namespace AgendaSIG5.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello patient, welcome to AgendaSIG5!!!!");
+            Console.WriteLine("hugo commit");
             AddPaciente();
             BuscarPaciente(1);
         }
